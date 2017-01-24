@@ -1,1 +1,8 @@
+<Version: 1.01>
+/data/Map002.json https://raw.githubusercontent.com/Fifix2/Updater/master/Map002.json
+/img/pictures/SubscribeButton.png http://i.imgur.com/5hRPCKu.png
+<End of Version>
 
+<Version: 1.02>
+
+<End of Version>
